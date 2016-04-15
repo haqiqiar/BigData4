@@ -42,6 +42,7 @@ def fetch_db(query, data_path):
 def save_csv(dataToSave,fileName):
     csvfile = open(fileName, 'wb')
     Writer = csv.writer(csvfile, delimiter=';', quoting=csv.QUOTE_ALL)
+    Writer.writerow([ str("CountryName"), str("CountryCode"), str("Year"), str("Value") ])
     for i in range(len(dataToSave)):
         #print(locale.format('%.2f', float(dataToSave[i][3]), True))
         Writer.writerow([ str(dataToSave[i][0]), str(dataToSave[i][1]), int(dataToSave[i][2]), locale.format('%.2f', float(dataToSave[i][3]), True) ])
