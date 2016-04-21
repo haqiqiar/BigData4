@@ -6,6 +6,8 @@ Created on Thu Apr 21 22:27:22 2016
 """
 
 DATA_PATH = r"E:\UserTA\5112100086\Dropbox\[PENTING TIDAK URGENT]\[ARSIP KULIAH]\SEMESTER 8\Kuliah\Big Data\BigData4\Energy\fetched_data\akses_listrik.txt"
+OUTPUT_CLUSTERED_FILE=r"clastered_data\[B]_electricity_clustered.txt"
+OUTPUT_RANGE_FILE=r"clastered_data\[B]_electricity_range.txt"
 
 import sklearn.cluster as clustering
 import numpy as np
@@ -59,13 +61,16 @@ def getRangeCluster(clustered_data):
     avg=[0,0,0,0]
     for i in range(len(clustered_data)):
         key = clustered_data[i][2]        
-        val[key]+=clustered_data[i][1]
+        val[key]+=float(clustered_data[i][1])
         num[key]+=1
     
     for i in range(len(val)):
         avg[i]=val[i]/num[i]
     
-    return avg
+    line=[]
+    line.append(avg)
+    line=sorted(line)
+    return line
     
 def getFields(data_path): 
     fields=[]
@@ -81,6 +86,31 @@ def preprocess(AvgPerKey, keys):
         avg_data_by_keys.append(AvgPerKey[keys[i]])
     avg_data_by_keys=np.array(avg_data_by_keys).reshape(len(keys),1)
     return avg_data_by_keys
+    
+def save_txt(dataToSave,fileName):
+    type_fields_0 = type(dataToSave[0][0])
+    print(type_fields_0)
+    if type_fields_0==str:
+        with open(fileName, 'w') as txtfile:   
+            for i in range(len(dataToSave)):
+                try :
+                    line=str(dataToSave[i][0])+";"+str(dataToSave[i][1])+";"+str(dataToSave[i][2])+"\n"
+                except IndexError as detail:
+                        print(detail)
+                        print(i)      
+                txtfile.write(line)  
+        txtfile.close()
+        
+    elif type_fields_0==float:
+        with open(fileName, 'w') as txtfile:   
+            for i in range(len(dataToSave)):
+                try :
+                    line=str(dataToSave[i][0])+";"+str(dataToSave[i][1])+";"+str(dataToSave[i][2])+";"+str(dataToSave[i][3])+"\n"
+                except IndexError as detail:
+                        print(detail)
+                        print(i)      
+                txtfile.write(line)  
+        txtfile.close()
     
 if __name__=="__main__":    
     #1 read from data
@@ -104,4 +134,8 @@ if __name__=="__main__":
     
     #7 additional, get range of cluster
     cluster_range = getRangeCluster(clustered_data)
-    cluster_range = sorted(cluster_range)
+    
+    #8 saving the clustered data
+    save_txt(clustered_data, OUTPUT_CLUSTERED_FILE)
+    save_txt(cluster_range, OUTPUT_RANGE_FILE)
+    
