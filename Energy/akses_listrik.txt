@@ -1,0 +1,980 @@
+Afghanistan;AFG;1990;34.61567
+Afghanistan;AFG;2000;37.45584
+Afghanistan;AFG;2010;41
+Afghanistan;AFG;2012;43
+Albania;ALB;1990;100
+Albania;ALB;2000;100
+Albania;ALB;2010;100
+Albania;ALB;2012;100
+Algeria;DZA;1990;94.03774
+Algeria;DZA;2000;98
+Algeria;DZA;2010;99.3
+Algeria;DZA;2012;100
+American Samoa;ASM;1990;48.85883
+American Samoa;ASM;2000;52.53027
+American Samoa;ASM;2010;55.8
+American Samoa;ASM;2012;59.32891
+Andorra;ADO;1990;100
+Andorra;ADO;2000;100
+Andorra;ADO;2010;100
+Andorra;ADO;2012;100
+Angola;AGO;1990;28.21566
+Angola;AGO;2000;31.05585
+Angola;AGO;2010;34.6
+Angola;AGO;2012;37
+Antigua and Barbuda;ATG;1990;81.13573
+Antigua and Barbuda;ATG;2000;85.4112
+Antigua and Barbuda;ATG;2010;87.87328
+Antigua and Barbuda;ATG;2012;90.87544
+Arab World;ARB;1990;75.4475070460831
+Arab World;ARB;2000;79.53695026971229
+Arab World;ARB;2010;84.34222469395701
+Arab World;ARB;2012;86.2707508670815
+Argentina;ARG;1990;88.20815
+Argentina;ARG;2000;92.34713
+Argentina;ARG;2010;94
+Argentina;ARG;2012;99.8
+Armenia;ARM;1990;94.28774
+Armenia;ARM;2000;98
+Armenia;ARM;2010;99.8
+Armenia;ARM;2012;100
+Aruba;ABW;1990;81.13573
+Aruba;ABW;2000;85.4112
+Aruba;ABW;2010;87.87328
+Aruba;ABW;2012;90.87544
+Australia;AUS;1990;100
+Australia;AUS;2000;100
+Australia;AUS;2010;100
+Australia;AUS;2012;100
+Austria;AUT;1990;100
+Austria;AUT;2000;100
+Austria;AUT;2010;100
+Austria;AUT;2012;100
+Azerbaijan;AZE;1990;93.11566
+Azerbaijan;AZE;2000;95.95585
+Azerbaijan;AZE;2010;99.5
+Azerbaijan;AZE;2012;100
+Bahamas, The;BHS;1990;91.96102
+Bahamas, The;BHS;2000;96.1
+Bahamas, The;BHS;2010;100
+Bahamas, The;BHS;2012;100
+Bahrain;BHR;1990;87.22775
+Bahrain;BHR;2000;90.89918
+Bahrain;BHR;2010;94.1
+Bahrain;BHR;2012;97.69783
+Bangladesh;BGD;1990;21.62
+Bangladesh;BGD;2000;32
+Bangladesh;BGD;2010;55.2
+Bangladesh;BGD;2012;59.6
+Barbados;BRB;1990;81.13573
+Barbados;BRB;2000;85.4112
+Barbados;BRB;2010;87.87328
+Barbados;BRB;2012;90.87544
+Belarus;BLR;1990;100
+Belarus;BLR;2000;100
+Belarus;BLR;2010;100
+Belarus;BLR;2012;100
+Belgium;BEL;1990;100
+Belgium;BEL;2000;100
+Belgium;BEL;2010;100
+Belgium;BEL;2012;100
+Belize;BLZ;1990;91.02206
+Belize;BLZ;2000;95.16103
+Belize;BLZ;2010;99.3
+Belize;BLZ;2012;100
+Benin;BEN;1990;22.03774
+Benin;BEN;2000;25.4
+Benin;BEN;2010;27.9
+Benin;BEN;2012;38.4
+Bermuda;BMU;1990;100
+Bermuda;BMU;2000;100
+Bermuda;BMU;2010;100
+Bermuda;BMU;2012;100
+Bhutan;BTN;1990;65.61566
+Bhutan;BTN;2000;68.45585
+Bhutan;BTN;2010;72
+Bhutan;BTN;2012;75.56256
+Bolivia;BOL;1990;67
+Bolivia;BOL;2000;66
+Bolivia;BOL;2010;80.2
+Bolivia;BOL;2012;90.5
+Bosnia and Herzegovina;BIH;1990;94.48774
+Bosnia and Herzegovina;BIH;2000;98.5
+Bosnia and Herzegovina;BIH;2010;99.7
+Bosnia and Herzegovina;BIH;2012;100
+Botswana;BWA;1990;36.71566
+Botswana;BWA;2000;39.55584
+Botswana;BWA;2010;43.1
+Botswana;BWA;2012;53.24
+Brazil;BRA;1990;93
+Brazil;BRA;2000;97.4
+Brazil;BRA;2010;98
+Brazil;BRA;2012;99.5
+Brunei Darussalam;BRN;1990;65.6913
+Brunei Darussalam;BRN;2000;69.36274
+Brunei Darussalam;BRN;2010;72.6
+Brunei Darussalam;BRN;2012;76.16138
+Bulgaria;BGR;1990;100
+Bulgaria;BGR;2000;100
+Bulgaria;BGR;2010;100
+Bulgaria;BGR;2012;100
+Burkina Faso;BFA;1990;6.1
+Burkina Faso;BFA;2000;6.9
+Burkina Faso;BFA;2010;13.1
+Burkina Faso;BFA;2012;13.1
+Burundi;BDI;1990;0.1
+Burundi;BDI;2000;3.9
+Burundi;BDI;2010;5.3
+Burundi;BDI;2012;6.5
+Cabo Verde;CPV;1990;58.18774
+Cabo Verde;CPV;2000;58.6
+Cabo Verde;CPV;2010;67
+Cabo Verde;CPV;2012;70.56256
+Cambodia;KHM;1990;19.23774
+Cambodia;KHM;2000;16.6
+Cambodia;KHM;2010;31.1
+Cambodia;KHM;2012;31.1
+Cameroon;CMR;1990;29
+Cameroon;CMR;2000;46.2
+Cameroon;CMR;2010;49
+Cameroon;CMR;2012;53.7
+Canada;CAN;1990;100
+Canada;CAN;2000;100
+Canada;CAN;2010;100
+Canada;CAN;2012;100
+Caribbean small states;CSS;1990;85.0763082533478
+Caribbean small states;CSS;2000;87.95732461721322
+Caribbean small states;CSS;2010;92.3823258075292
+Caribbean small states;CSS;2012;93.4561571853574
+Cayman Islands;CYM;1990;81.13573
+Cayman Islands;CYM;2000;85.4112
+Cayman Islands;CYM;2010;87.87328
+Cayman Islands;CYM;2012;90.87544
+Central African Republic;CAF;1990;3
+Central African Republic;CAF;2000;6
+Central African Republic;CAF;2010;9.5
+Central African Republic;CAF;2012;10.8
+Central Europe and the Baltics;CEB;1990;100
+Central Europe and the Baltics;CEB;2000;100
+Central Europe and the Baltics;CEB;2010;100
+Central Europe and the Baltics;CEB;2012;100
+Chad;TCD;1990;0.1
+Chad;TCD;2000;2.3
+Chad;TCD;2010;3.5
+Chad;TCD;2012;6.4
+Channel Islands;CHI;1990;100
+Channel Islands;CHI;2000;100
+Channel Islands;CHI;2010;100
+Channel Islands;CHI;2012;100
+Chile;CHL;1990;95
+Chile;CHL;2000;98.8
+Chile;CHL;2010;99
+Chile;CHL;2012;99.6
+China;CHN;1990;94.23774
+China;CHN;2000;98
+China;CHN;2010;99.7
+China;CHN;2012;100
+Colombia;COL;1990;92
+Colombia;COL;2000;97
+Colombia;COL;2010;96.7
+Colombia;COL;2012;97
+Comoros;COM;1990;41.95982
+Comoros;COM;2000;44.8
+Comoros;COM;2010;51.5
+Comoros;COM;2012;69.3
+Congo, Dem. Rep.;ZAR;1990;6.33774
+Congo, Dem. Rep.;ZAR;2000;6.7
+Congo, Dem. Rep.;ZAR;2010;15.2
+Congo, Dem. Rep.;ZAR;2012;16.4
+Congo, Rep.;COG;1990;24.38774
+Congo, Rep.;COG;2000;20.9
+Congo, Rep.;COG;2010;37.1
+Congo, Rep.;COG;2012;41.6
+Costa Rica;CRI;1990;91.32578
+Costa Rica;CRI;2000;98
+Costa Rica;CRI;2010;98
+Costa Rica;CRI;2012;99.5
+Cote d'Ivoire;CIV;1990;36.5
+Cote d'Ivoire;CIV;2000;51.4
+Cote d'Ivoire;CIV;2010;58.9
+Cote d'Ivoire;CIV;2012;55.8
+Croatia;HRV;1990;100
+Croatia;HRV;2000;100
+Croatia;HRV;2010;100
+Croatia;HRV;2012;100
+Cuba;CUB;1990;92.86102
+Cuba;CUB;2000;97
+Cuba;CUB;2010;100
+Cuba;CUB;2012;100
+Curacao;CUW;1990;81.13573
+Curacao;CUW;2000;85.4112
+Curacao;CUW;2010;87.87328
+Curacao;CUW;2012;90.87544
+Cyprus;CYP;1990;96.36144
+Cyprus;CYP;2000;100
+Cyprus;CYP;2010;100
+Cyprus;CYP;2012;100
+Czech Republic;CZE;1990;100
+Czech Republic;CZE;2000;100
+Czech Republic;CZE;2010;100
+Czech Republic;CZE;2012;100
+Denmark;DNK;1990;100
+Denmark;DNK;2000;100
+Denmark;DNK;2010;100
+Denmark;DNK;2012;100
+Djibouti;DJI;1990;43.31567
+Djibouti;DJI;2000;46.15585
+Djibouti;DJI;2010;49.7
+Djibouti;DJI;2012;53.26256
+Dominica;DMA;1990;83.56102
+Dominica;DMA;2000;87.7
+Dominica;DMA;2010;91.83897
+Dominica;DMA;2012;92.66676
+Dominican Republic;DOM;1990;78.2
+Dominican Republic;DOM;2000;90
+Dominican Republic;DOM;2010;98
+Dominican Republic;DOM;2012;98
+East Asia & Pacific (all income levels);EAS;1990;87.47506063857671
+East Asia & Pacific (all income levels);EAS;2000;92.17332633349359
+East Asia & Pacific (all income levels);EAS;2010;95.2901174886849
+East Asia & Pacific (all income levels);EAS;2012;96.1184892579525
+East Asia & Pacific (developing only);EAP;1990;86.11880253910549
+East Asia & Pacific (developing only);EAP;2000;91.34922931647621
+East Asia & Pacific (developing only);EAP;2010;94.7999973666419
+East Asia & Pacific (developing only);EAP;2012;95.71372464511231
+Ecuador;ECU;1990;89
+Ecuador;ECU;2000;94
+Ecuador;ECU;2010;97
+Ecuador;ECU;2012;97.2
+Egypt, Arab Rep.;EGY;1990;95.5
+Egypt, Arab Rep.;EGY;2000;97.7
+Egypt, Arab Rep.;EGY;2010;99.6
+Egypt, Arab Rep.;EGY;2012;100
+El Salvador;SLV;1990;77
+El Salvador;SLV;2000;87
+El Salvador;SLV;2010;92
+El Salvador;SLV;2012;93.7
+Equatorial Guinea;GNQ;1990;56.89426
+Equatorial Guinea;GNQ;2000;61.03323
+Equatorial Guinea;GNQ;2010;65.1722
+Equatorial Guinea;GNQ;2012;66
+Eritrea;ERI;1990;22.9
+Eritrea;ERI;2000;32.2
+Eritrea;ERI;2010;32.5
+Eritrea;ERI;2012;36.0768
+Estonia;EST;1990;100
+Estonia;EST;2000;100
+Estonia;EST;2010;100
+Estonia;EST;2012;100
+Ethiopia;ETH;1990;10
+Ethiopia;ETH;2000;12.7
+Ethiopia;ETH;2010;23
+Ethiopia;ETH;2012;26.56256
+Euro area;EMU;1990;99.99104490179408
+Euro area;EMU;2000;100
+Euro area;EMU;2010;100
+Euro area;EMU;2012;100
+Europe & Central Asia (all income levels);ECS;1990;99.1533278362732
+Europe & Central Asia (all income levels);ECS;2000;99.63329678308621
+Europe & Central Asia (all income levels);ECS;2010;99.9747154673976
+Europe & Central Asia (all income levels);ECS;2012;100
+Europe & Central Asia (developing only);ECA;1990;97.0040337304806
+Europe & Central Asia (developing only);ECA;2000;98.71520928657391
+Europe & Central Asia (developing only);ECA;2010;99.9124066678474
+Europe & Central Asia (developing only);ECA;2012;100
+European Union;EUU;1990;99.99416389012079
+European Union;EUU;2000;100
+European Union;EUU;2010;100
+European Union;EUU;2012;100
+Faeroe Islands;FRO;1990;100
+Faeroe Islands;FRO;2000;100
+Faeroe Islands;FRO;2010;100
+Faeroe Islands;FRO;2012;100
+Fiji;FJI;1990;48.85883
+Fiji;FJI;2000;52.53027
+Fiji;FJI;2010;55.8
+Fiji;FJI;2012;59.32891
+Finland;FIN;1990;100
+Finland;FIN;2000;100
+Finland;FIN;2010;100
+Finland;FIN;2012;100
+Fragile and conflict affected situations;FCS;1990;34.9725010751745
+Fragile and conflict affected situations;FCS;2000;37.648701358912604
+Fragile and conflict affected situations;FCS;2010;40.487438279975
+Fragile and conflict affected situations;FCS;2012;42.7981457351381
+France;FRA;1990;100
+France;FRA;2000;100
+France;FRA;2010;100
+France;FRA;2012;100
+French Polynesia;PYF;1990;48.85883
+French Polynesia;PYF;2000;52.53027
+French Polynesia;PYF;2010;55.8
+French Polynesia;PYF;2012;59.32891
+Gabon;GAB;1990;72.98774
+Gabon;GAB;2000;73.6
+Gabon;GAB;2010;81.6
+Gabon;GAB;2012;89.3
+Gambia, The;GMB;1990;17.7
+Gambia, The;GMB;2000;34.3
+Gambia, The;GMB;2010;31
+Gambia, The;GMB;2012;34.5268
+Georgia;GEO;1990;97.05982
+Georgia;GEO;2000;99.9
+Georgia;GEO;2010;100
+Georgia;GEO;2012;100
+Germany;DEU;1990;100
+Germany;DEU;2000;100
+Germany;DEU;2010;100
+Germany;DEU;2012;100
+Ghana;GHA;1990;30.6
+Ghana;GHA;2000;45
+Ghana;GHA;2010;60.5
+Ghana;GHA;2012;64.06256
+Greece;GRC;1990;100
+Greece;GRC;2000;100
+Greece;GRC;2010;100
+Greece;GRC;2012;100
+Greenland;GRL;1990;100
+Greenland;GRL;2000;100
+Greenland;GRL;2010;100
+Greenland;GRL;2012;100
+Grenada;GRD;1990;81.13573
+Grenada;GRD;2000;85.4112
+Grenada;GRD;2010;87.87328
+Grenada;GRD;2012;90.87544
+Guam;GUM;1990;48.85883
+Guam;GUM;2000;52.53027
+Guam;GUM;2010;55.8
+Guam;GUM;2012;59.32891
+Guatemala;GTM;1990;71.99245
+Guatemala;GTM;2000;78
+Guatemala;GTM;2010;78.3
+Guatemala;GTM;2012;78.5
+Guinea;GIN;1990;13.68774
+Guinea;GIN;2000;16.4
+Guinea;GIN;2010;20.2
+Guinea;GIN;2012;26.2
+Guinea-Bissau;GNB;1990;50.65982
+Guinea-Bissau;GNB;2000;53.5
+Guinea-Bissau;GNB;2010;57
+Guinea-Bissau;GNB;2012;60.60672
+Guyana;GUY;1990;72
+Guyana;GUY;2000;74.5
+Guyana;GUY;2010;77
+Guyana;GUY;2012;79.46677
+Haiti;HTI;1990;31.3
+Haiti;HTI;2000;31.4
+Haiti;HTI;2010;33.9
+Haiti;HTI;2012;37.9
+Heavily indebted poor countries (HIPC);HPC;1990;16.4801533627889
+Heavily indebted poor countries (HIPC);HPC;2000;20.1840621522605
+Heavily indebted poor countries (HIPC);HPC;2010;26.221116762581897
+Heavily indebted poor countries (HIPC);HPC;2012;29.153873111397
+High income;HIC;1990;98.9715996029608
+High income;HIC;2000;99.3310042804218
+High income;HIC;2010;99.4938802966526
+High income;HIC;2012;99.82300902758551
+High income: OECD;OEC;1990;99.64435006382321
+High income: OECD;OEC;2000;99.8865261062149
+High income: OECD;OEC;2010;99.969694734762
+High income: OECD;OEC;2012;99.99343292300051
+High income: nonOECD;NOC;1990;96.53413348059608
+High income: nonOECD;NOC;2000;97.3138650664109
+High income: nonOECD;NOC;2010;97.7962225332547
+High income: nonOECD;NOC;2012;99.2213375120928
+Honduras;HND;1990;64
+Honduras;HND;2000;67
+Honduras;HND;2010;80
+Honduras;HND;2012;82.2
+Hong Kong SAR, China;HKG;1990;100
+Hong Kong SAR, China;HKG;2000;100
+Hong Kong SAR, China;HKG;2010;100
+Hong Kong SAR, China;HKG;2012;100
+Hungary;HUN;1990;100
+Hungary;HUN;2000;100
+Hungary;HUN;2010;100
+Hungary;HUN;2012;100
+Iceland;ISL;1990;100
+Iceland;ISL;2000;100
+Iceland;ISL;2010;100
+Iceland;ISL;2012;100
+India;IND;1990;50.9
+India;IND;2000;62.3
+India;IND;2010;75
+India;IND;2012;78.7
+Indonesia;IDN;1990;66.86
+Indonesia;IDN;2000;87.6
+Indonesia;IDN;2010;94.2
+Indonesia;IDN;2012;96
+Iran, Islamic Rep.;IRN;1990;93.53774
+Iran, Islamic Rep.;IRN;2000;97.9
+Iran, Islamic Rep.;IRN;2010;98.4
+Iran, Islamic Rep.;IRN;2012;100
+Iraq;IRQ;1990;91.61566
+Iraq;IRQ;2000;94.45585
+Iraq;IRQ;2010;98
+Iraq;IRQ;2012;100
+Ireland;IRL;1990;100
+Ireland;IRL;2000;100
+Ireland;IRL;2010;100
+Ireland;IRL;2012;100
+Isle of Man;IMY;1990;100
+Isle of Man;IMY;2000;100
+Isle of Man;IMY;2010;100
+Isle of Man;IMY;2012;100
+Israel;ISR;1990;96.36144
+Israel;ISR;2000;100
+Israel;ISR;2010;100
+Israel;ISR;2012;100
+Italy;ITA;1990;100
+Italy;ITA;2000;100
+Italy;ITA;2010;100
+Italy;ITA;2012;100
+Jamaica;JAM;1990;85
+Jamaica;JAM;2000;86
+Jamaica;JAM;2010;92
+Jamaica;JAM;2012;92.63344
+Japan;JPN;1990;100
+Japan;JPN;2000;100
+Japan;JPN;2010;100
+Japan;JPN;2012;100
+Jordan;JOR;1990;94.83774
+Jordan;JOR;2000;99.5
+Jordan;JOR;2010;99.4
+Jordan;JOR;2012;99.5
+Kazakhstan;KAZ;1990;94.15982
+Kazakhstan;KAZ;2000;97
+Kazakhstan;KAZ;2010;100
+Kazakhstan;KAZ;2012;100
+Kenya;KEN;1990;10.9
+Kenya;KEN;2000;14.5
+Kenya;KEN;2010;23
+Kenya;KEN;2012;23
+Kiribati;KIR;1990;48.85883
+Kiribati;KIR;2000;52.53027
+Kiribati;KIR;2010;55.8
+Kiribati;KIR;2012;59.32891
+Korea, Dem. Rep.;PRK;1990;19.61566
+Korea, Dem. Rep.;PRK;2000;22.45585
+Korea, Dem. Rep.;PRK;2010;26
+Korea, Dem. Rep.;PRK;2012;29.56256
+Korea, Rep.;KOR;1990;94.23774
+Korea, Rep.;KOR;2000;98
+Korea, Rep.;KOR;2010;99.7
+Korea, Rep.;KOR;2012;100
+Kosovo;KSV;1990;100
+Kosovo;KSV;2000;100
+Kosovo;KSV;2010;100
+Kosovo;KSV;2012;100
+Kuwait;KWT;1990;87.22775
+Kuwait;KWT;2000;90.89918
+Kuwait;KWT;2010;94.1
+Kuwait;KWT;2012;97.69783
+Kyrgyz Republic;KGZ;1990;97.15982
+Kyrgyz Republic;KGZ;2000;100
+Kyrgyz Republic;KGZ;2010;100
+Kyrgyz Republic;KGZ;2012;100
+Lao PDR;LAO;1990;51.53774
+Lao PDR;LAO;2000;46.3
+Lao PDR;LAO;2010;66
+Lao PDR;LAO;2012;70
+Latin America & Caribbean (all income levels);LCN;1990;89.0635312407505
+Latin America & Caribbean (all income levels);LCN;2000;92.7832552400251
+Latin America & Caribbean (all income levels);LCN;2010;94.7457038425929
+Latin America & Caribbean (all income levels);LCN;2012;96.40682022363849
+Latin America & Caribbean (developing only);LAC;1990;88.4767323395792
+Latin America & Caribbean (developing only);LAC;2000;92.30368662992609
+Latin America & Caribbean (developing only);LAC;2010;94.37858063578008
+Latin America & Caribbean (developing only);LAC;2012;95.82870120755699
+Latvia;LVA;1990;100
+Latvia;LVA;2000;100
+Latvia;LVA;2010;100
+Latvia;LVA;2012;100
+Least developed countries: UN classification;LDC;1990;19.878233335271002
+Least developed countries: UN classification;LDC;2000;23.5792127785114
+Least developed countries: UN classification;LDC;2010;31.435198132866997
+Least developed countries: UN classification;LDC;2012;34.3374657642783
+Lebanon;LBN;1990;92.83774
+Lebanon;LBN;2000;95
+Lebanon;LBN;2010;99.9
+Lebanon;LBN;2012;100
+Lesotho;LSO;1990;6.387741
+Lesotho;LSO;2000;5
+Lesotho;LSO;2010;17
+Lesotho;LSO;2012;20.56256
+Liberia;LBR;1990;0.1
+Liberia;LBR;2000;0.5558459
+Liberia;LBR;2010;4.1
+Liberia;LBR;2012;9.8
+Libya;LBY;1990;96.95982
+Libya;LBY;2000;99.8
+Libya;LBY;2010;100
+Libya;LBY;2012;100
+Liechtenstein;LIE;1990;100
+Liechtenstein;LIE;2000;100
+Liechtenstein;LIE;2010;100
+Liechtenstein;LIE;2012;100
+Lithuania;LTU;1990;100
+Lithuania;LTU;2000;100
+Lithuania;LTU;2010;100
+Lithuania;LTU;2012;100
+Low & middle income;LMY;1990;68.8858738467149
+Low & middle income;LMY;2000;74.0889537423585
+Low & middle income;LMY;2010;79.1052000225077
+Low & middle income;LMY;2012;80.9545289684763
+Low income;LIC;1990;14.8960075246333
+Low income;LIC;2000;17.014791904822303
+Low income;LIC;2010;22.1003211922685
+Low income;LIC;2012;24.836293892169298
+Lower middle income;LMC;1990;55.0168016696286
+Lower middle income;LMC;2000;64.8530269957137
+Lower middle income;LMC;2010;74.8915324803294
+Lower middle income;LMC;2012;78.11854635995009
+Luxembourg;LUX;1990;100
+Luxembourg;LUX;2000;100
+Luxembourg;LUX;2010;100
+Luxembourg;LUX;2012;100
+Macao SAR, China;MAC;1990;80.80292
+Macao SAR, China;MAC;2000;84
+Macao SAR, China;MAC;2010;87.54047
+Macao SAR, China;MAC;2012;90.54264
+Macedonia, FYR;MKD;1990;92.61566
+Macedonia, FYR;MKD;2000;95.45585
+Macedonia, FYR;MKD;2010;99
+Macedonia, FYR;MKD;2012;100
+Madagascar;MDG;1990;9.2
+Madagascar;MDG;2000;11.39801
+Madagascar;MDG;2010;14.3
+Madagascar;MDG;2012;15.4
+Malawi;MWI;1990;3.2
+Malawi;MWI;2000;4.8
+Malawi;MWI;2010;8.7
+Malawi;MWI;2012;9.8
+Malaysia;MYS;1990;93.23774
+Malaysia;MYS;2000;96.4
+Malaysia;MYS;2010;99.3
+Malaysia;MYS;2012;100
+Maldives;MDV;1990;93.51566
+Maldives;MDV;2000;96.35585
+Maldives;MDV;2010;99.9
+Maldives;MDV;2012;100
+Mali;MLI;1990;12.03774
+Mali;MLI;2000;16.7
+Mali;MLI;2010;16.6
+Mali;MLI;2012;25.6
+Malta;MLT;1990;100
+Malta;MLT;2000;100
+Malta;MLT;2010;100
+Malta;MLT;2012;100
+Marshall Islands;MHL;1990;48.85883
+Marshall Islands;MHL;2000;52.53027
+Marshall Islands;MHL;2010;55.8
+Marshall Islands;MHL;2012;59.32891
+Mauritania;MRT;1990;11.81566
+Mauritania;MRT;2000;14.65585
+Mauritania;MRT;2010;18.2
+Mauritania;MRT;2012;21.76256
+Mauritius;MUS;1990;96.55982
+Mauritius;MUS;2000;99.4
+Mauritius;MUS;2010;100
+Mauritius;MUS;2012;100
+Mexico;MEX;1990;96
+Mexico;MEX;2000;98
+Mexico;MEX;2010;99
+Mexico;MEX;2012;99.1
+Micronesia, Fed. Sts.;FSM;1990;48.85883
+Micronesia, Fed. Sts.;FSM;2000;52.53027
+Micronesia, Fed. Sts.;FSM;2010;55.8
+Micronesia, Fed. Sts.;FSM;2012;59.32891
+Middle East & North Africa (all income levels);MEA;1990;85.8995866995096
+Middle East & North Africa (all income levels);MEA;2000;90.500836928424
+Middle East & North Africa (all income levels);MEA;2010;94.6246757787121
+Middle East & North Africa (all income levels);MEA;2012;96.1897189131864
+Middle East & North Africa (developing only);MNA;1990;85.5270239020585
+Middle East & North Africa (developing only);MNA;2000;90.2307030918327
+Middle East & North Africa (developing only);MNA;2010;94.5662644270815
+Middle East & North Africa (developing only);MNA;2012;95.88372206773779
+Middle income;MIC;1990;73.53159453030679
+Middle income;MIC;2000;79.60667817861992
+Middle income;MIC;2010;85.4737332410993
+Middle income;MIC;2012;87.41760470667509
+Moldova;MDA;1990;92.21566
+Moldova;MDA;2000;95.05585
+Moldova;MDA;2010;98.6
+Moldova;MDA;2012;100
+Monaco;MCO;1990;100
+Monaco;MCO;2000;100
+Monaco;MCO;2010;100
+Monaco;MCO;2012;100
+Mongolia;MNG;1990;79.81566
+Mongolia;MNG;2000;82.65585
+Mongolia;MNG;2010;86.2
+Mongolia;MNG;2012;89.76256
+Montenegro;MNE;1990;100
+Montenegro;MNE;2000;100
+Montenegro;MNE;2010;100
+Montenegro;MNE;2012;100
+Morocco;MAR;1990;49.2
+Morocco;MAR;2000;71.1
+Morocco;MAR;2010;98.9
+Morocco;MAR;2012;100
+Mozambique;MOZ;1990;6.43774
+Mozambique;MOZ;2000;7.1
+Mozambique;MOZ;2010;15
+Mozambique;MOZ;2012;20.2
+Myanmar;MMR;1990;43.28774
+Myanmar;MMR;2000;47
+Myanmar;MMR;2010;48.8
+Myanmar;MMR;2012;52.36256
+Namibia;NAM;1990;26.4
+Namibia;NAM;2000;36.5
+Namibia;NAM;2010;43.7
+Namibia;NAM;2012;47.26256
+Nepal;NPL;1990;69.91566
+Nepal;NPL;2000;72.75585
+Nepal;NPL;2010;76.3
+Nepal;NPL;2012;76.3
+Netherlands;NLD;1990;100
+Netherlands;NLD;2000;100
+Netherlands;NLD;2010;100
+Netherlands;NLD;2012;100
+New Caledonia;NCL;1990;48.85883
+New Caledonia;NCL;2000;52.53027
+New Caledonia;NCL;2010;55.8
+New Caledonia;NCL;2012;59.32891
+New Zealand;NZL;1990;100
+New Zealand;NZL;2000;100
+New Zealand;NZL;2010;100
+New Zealand;NZL;2012;100
+Nicaragua;NIC;1990;71
+Nicaragua;NIC;2000;72
+Nicaragua;NIC;2010;73
+Nicaragua;NIC;2012;77.9
+Niger;NER;1990;6.2
+Niger;NER;2000;6.7
+Niger;NER;2010;9.3
+Niger;NER;2012;14.4
+Nigeria;NGA;1990;41.83774
+Nigeria;NGA;2000;44.9
+Nigeria;NGA;2010;48
+Nigeria;NGA;2012;55.6
+North America;NAC;1990;100
+North America;NAC;2000;100
+North America;NAC;2010;100
+North America;NAC;2012;100
+Norway;NOR;1990;100
+Norway;NOR;2000;100
+Norway;NOR;2010;100
+Norway;NOR;2012;100
+OECD members;OED;1990;99.3698443670642
+OECD members;OED;2000;99.7248168275037
+OECD members;OED;2010;99.87881230248829
+OECD members;OED;2012;99.90693904884279
+Oman;OMN;1990;87.22775
+Oman;OMN;2000;90.89918
+Oman;OMN;2010;94.1
+Oman;OMN;2012;97.69783
+Other small states;OSS;1990;45.38852441014811
+Other small states;OSS;2000;48.4700067665894
+Other small states;OSS;2010;52.84963407698461
+Other small states;OSS;2012;57.47317319140701
+Pacific island small states;PSS;1990;44.2040751006788
+Pacific island small states;PSS;2000;46.4844820792755
+Pacific island small states;PSS;2010;48.94351447899421
+Pacific island small states;PSS;2012;51.944125399306294
+Pakistan;PAK;1990;59.6
+Pakistan;PAK;2000;79.5
+Pakistan;PAK;2010;91.4
+Pakistan;PAK;2012;93.6
+Palau;PLW;1990;48.85883
+Palau;PLW;2000;52.53027
+Palau;PLW;2010;55.8
+Palau;PLW;2012;59.32891
+Panama;PAN;1990;81.13573
+Panama;PAN;2000;85.4112
+Panama;PAN;2010;87.87328
+Panama;PAN;2012;90.87544
+Papua New Guinea;PNG;1990;8.159818
+Papua New Guinea;PNG;2000;11
+Papua New Guinea;PNG;2010;14.5
+Papua New Guinea;PNG;2012;18.10671
+Paraguay;PRY;1990;86
+Paraguay;PRY;2000;93.2499
+Paraguay;PRY;2010;97
+Paraguay;PRY;2012;98.2
+Peru;PER;1990;69
+Peru;PER;2000;72.8615
+Peru;PER;2010;85
+Peru;PER;2012;91.2
+Philippines;PHL;1990;65.4
+Philippines;PHL;2000;71.3
+Philippines;PHL;2010;83.3
+Philippines;PHL;2012;87.5
+Poland;POL;1990;100
+Poland;POL;2000;100
+Poland;POL;2010;100
+Poland;POL;2012;100
+Portugal;PRT;1990;100
+Portugal;PRT;2000;100
+Portugal;PRT;2010;100
+Portugal;PRT;2012;100
+Puerto Rico;PRI;1990;81.13573
+Puerto Rico;PRI;2000;85.4112
+Puerto Rico;PRI;2010;87.87328
+Puerto Rico;PRI;2012;90.87544
+Qatar;QAT;1990;87.22775
+Qatar;QAT;2000;90.89918
+Qatar;QAT;2010;94.1
+Qatar;QAT;2012;97.69783
+Romania;ROM;1990;100
+Romania;ROM;2000;100
+Romania;ROM;2010;100
+Romania;ROM;2012;100
+Russian Federation;RUS;1990;100
+Russian Federation;RUS;2000;100
+Russian Federation;RUS;2010;100
+Russian Federation;RUS;2012;100
+Rwanda;RWA;1990;2.3
+Rwanda;RWA;2000;6.2
+Rwanda;RWA;2010;10.8
+Rwanda;RWA;2012;18
+Samoa;WSM;1990;80
+Samoa;WSM;2000;89.44801
+Samoa;WSM;2010;99.6
+Samoa;WSM;2012;100
+San Marino;SMR;1990;100
+San Marino;SMR;2000;100
+San Marino;SMR;2010;100
+San Marino;SMR;2012;100
+Sao Tome and Principe;STP;1990;50.28774
+Sao Tome and Principe;STP;2000;52.9
+Sao Tome and Principe;STP;2010;56.9
+Sao Tome and Principe;STP;2012;60.46256
+Saudi Arabia;SAU;1990;87.22775
+Saudi Arabia;SAU;2000;90.89918
+Saudi Arabia;SAU;2010;94.1
+Saudi Arabia;SAU;2012;97.69783
+Senegal;SEN;1990;26
+Senegal;SEN;2000;36.8
+Senegal;SEN;2010;56.5
+Senegal;SEN;2012;56.5
+Serbia;SRB;1990;100
+Serbia;SRB;2000;100
+Serbia;SRB;2010;100
+Serbia;SRB;2012;100
+Seychelles;SYC;1990;96.55982
+Seychelles;SYC;2000;99.4
+Seychelles;SYC;2010;100
+Seychelles;SYC;2012;100
+Sierra Leone;SLE;1990;5.715664
+Sierra Leone;SLE;2000;8.555846
+Sierra Leone;SLE;2010;12.1
+Sierra Leone;SLE;2012;14.2
+Singapore;SGP;1990;100
+Singapore;SGP;2000;100
+Singapore;SGP;2010;100
+Singapore;SGP;2012;100
+Slovak Republic;SVK;1990;100
+Slovak Republic;SVK;2000;100
+Slovak Republic;SVK;2010;100
+Slovak Republic;SVK;2012;100
+Slovenia;SVN;1990;100
+Slovenia;SVN;2000;100
+Slovenia;SVN;2010;100
+Slovenia;SVN;2012;100
+Small states;SST;1990;56.612377733701706
+Small states;SST;2000;58.6399740914886
+Small states;SST;2010;62.098614919015205
+Small states;SST;2012;65.5703995620455
+Solomon Islands;SLB;1990;12.85982
+Solomon Islands;SLB;2000;15.7
+Solomon Islands;SLB;2010;19.2
+Solomon Islands;SLB;2012;22.80671
+Somalia;SOM;1990;22.23787
+Somalia;SOM;2000;25.9093
+Somalia;SOM;2010;29.1
+Somalia;SOM;2012;32.70795
+South Africa;ZAF;1990;65
+South Africa;ZAF;2000;66.1
+South Africa;ZAF;2010;82.7
+South Africa;ZAF;2012;85.4
+South Asia;SAS;1990;49.5548675870033
+South Asia;SAS;2000;61.234901047477294
+South Asia;SAS;2010;74.4387682902283
+South Asia;SAS;2012;77.95846200904231
+South Sudan;SSD;1990;0
+South Sudan;SSD;2000;0
+South Sudan;SSD;2010;1.5
+South Sudan;SSD;2012;5.062558
+Spain;ESP;1990;100
+Spain;ESP;2000;100
+Spain;ESP;2010;100
+Spain;ESP;2012;100
+Sri Lanka;LKA;1990;78.28773
+Sri Lanka;LKA;2000;80.7
+Sri Lanka;LKA;2010;85.1
+Sri Lanka;LKA;2012;88.66256
+St. Kitts and Nevis;KNA;1990;81.13573
+St. Kitts and Nevis;KNA;2000;85.4112
+St. Kitts and Nevis;KNA;2010;87.87328
+St. Kitts and Nevis;KNA;2012;90.87544
+St. Lucia;LCA;1990;81.13573
+St. Lucia;LCA;2000;85.4112
+St. Lucia;LCA;2010;87.87328
+St. Lucia;LCA;2012;90.87544
+St. Martin (French part);MAF;1990;81.13573
+St. Martin (French part);MAF;2000;85.4112
+St. Martin (French part);MAF;2010;87.87328
+St. Martin (French part);MAF;2012;90.87544
+St. Vincent and the Grenadines;VCT;1990;66.8
+St. Vincent and the Grenadines;VCT;2000;70.93898
+St. Vincent and the Grenadines;VCT;2010;75.07795
+St. Vincent and the Grenadines;VCT;2012;75.90575
+Sub-Saharan Africa (all income levels);SSF;1990;22.771570198244
+Sub-Saharan Africa (all income levels);SSF;2000;26.0645323630819
+Sub-Saharan Africa (all income levels);SSF;2010;31.773165441795395
+Sub-Saharan Africa (all income levels);SSF;2012;35.3061033610155
+Sub-Saharan Africa (developing only);SSA;1990;22.736066596920498
+Sub-Saharan Africa (developing only);SSA;2000;26.027786123343702
+Sub-Saharan Africa (developing only);SSA;2010;31.738270169204696
+Sub-Saharan Africa (developing only);SSA;2012;35.2741487909354
+Sudan;SDN;1990;22.61566
+Sudan;SDN;2000;25.45585
+Sudan;SDN;2010;29
+Sudan;SDN;2012;32.56256
+Suriname;SUR;1990;95.48508
+Suriname;SUR;2000;99.6241
+Suriname;SUR;2010;100
+Suriname;SUR;2012;100
+Swaziland;SWZ;1990;28.81566
+Swaziland;SWZ;2000;31.65585
+Swaziland;SWZ;2010;35.2
+Swaziland;SWZ;2012;42
+Sweden;SWE;1990;100
+Sweden;SWE;2000;100
+Sweden;SWE;2010;100
+Sweden;SWE;2012;100
+Switzerland;CHE;1990;100
+Switzerland;CHE;2000;100
+Switzerland;CHE;2010;100
+Switzerland;CHE;2012;100
+Syrian Arab Republic;SYR;1990;85.03773
+Syrian Arab Republic;SYR;2000;86.6
+Syrian Arab Republic;SYR;2010;92.7
+Syrian Arab Republic;SYR;2012;96.26256
+Tajikistan;TJK;1990;94.88774
+Tajikistan;TJK;2000;99
+Tajikistan;TJK;2010;100
+Tajikistan;TJK;2012;100
+Tanzania;TZA;1990;6.8
+Tanzania;TZA;2000;8.8
+Tanzania;TZA;2010;14.8
+Tanzania;TZA;2012;15.3
+Thailand;THA;1990;80
+Thailand;THA;2000;82.5
+Thailand;THA;2010;99.7
+Thailand;THA;2012;100
+Timor-Leste;TMP;1990;31.61566
+Timor-Leste;TMP;2000;34.45584
+Timor-Leste;TMP;2010;38
+Timor-Leste;TMP;2012;41.56256
+Togo;TGO;1990;10
+Togo;TGO;2000;16.97
+Togo;TGO;2010;27.9
+Togo;TGO;2012;31.46256
+Tonga;TON;1990;80
+Tonga;TON;2000;85.79802
+Tonga;TON;2010;92.3
+Tonga;TON;2012;95.86256
+Trinidad and Tobago;TTO;1990;90.72205
+Trinidad and Tobago;TTO;2000;94.86102
+Trinidad and Tobago;TTO;2010;99
+Trinidad and Tobago;TTO;2012;99.8278
+Tunisia;TUN;1990;92.63774
+Tunisia;TUN;2000;95
+Tunisia;TUN;2010;99.5
+Tunisia;TUN;2012;100
+Turkey;TUR;1990;100
+Turkey;TUR;2000;100
+Turkey;TUR;2010;100
+Turkey;TUR;2012;100
+Turkmenistan;TKM;1990;95.18774
+Turkmenistan;TKM;2000;99.6
+Turkmenistan;TKM;2010;100
+Turkmenistan;TKM;2012;100
+Turks and Caicos Islands;TCA;1990;81.13573
+Turks and Caicos Islands;TCA;2000;85.4112
+Turks and Caicos Islands;TCA;2010;87.87328
+Turks and Caicos Islands;TCA;2012;90.87544
+Tuvalu;TUV;1990;34.61567
+Tuvalu;TUV;2000;37.45584
+Tuvalu;TUV;2010;41
+Tuvalu;TUV;2012;44.56256
+Uganda;UGA;1990;6.8
+Uganda;UGA;2000;8.6
+Uganda;UGA;2010;14.6
+Uganda;UGA;2012;18.16256
+Ukraine;UKR;1990;93.41566
+Ukraine;UKR;2000;96.25585
+Ukraine;UKR;2010;99.8
+Ukraine;UKR;2012;100
+United Arab Emirates;ARE;1990;87.22775
+United Arab Emirates;ARE;2000;90.89918
+United Arab Emirates;ARE;2010;94.1
+United Arab Emirates;ARE;2012;97.69783
+United Kingdom;GBR;1990;100
+United Kingdom;GBR;2000;100
+United Kingdom;GBR;2010;100
+United Kingdom;GBR;2012;100
+United States;USA;1990;100
+United States;USA;2000;100
+United States;USA;2010;100
+United States;USA;2012;100
+Upper middle income;UMC;1990;92.46881199057128
+Upper middle income;UMC;2000;95.77099163623699
+Upper middle income;UMC;2010;98.0093596373179
+Upper middle income;UMC;2012;98.5974277538384
+Uruguay;URY;1990;96
+Uruguay;URY;2000;97
+Uruguay;URY;2010;99
+Uruguay;URY;2012;99.5
+Uzbekistan;UZB;1990;96.85982
+Uzbekistan;UZB;2000;99.7
+Uzbekistan;UZB;2010;100
+Uzbekistan;UZB;2012;100
+Vanuatu;VUT;1990;18
+Vanuatu;VUT;2000;19.1
+Vanuatu;VUT;2010;23.5
+Vanuatu;VUT;2012;27.07681
+Venezuela, RB;VEN;1990;98
+Venezuela, RB;VEN;2000;99
+Venezuela, RB;VEN;2010;100
+Venezuela, RB;VEN;2012;100
+Vietnam;VNM;1990;87.93774
+Vietnam;VNM;2000;89.1
+Vietnam;VNM;2010;96
+Vietnam;VNM;2012;99
+Virgin Islands (U.S.);VIR;1990;81.13573
+Virgin Islands (U.S.);VIR;2000;85.4112
+Virgin Islands (U.S.);VIR;2010;87.87328
+Virgin Islands (U.S.);VIR;2012;90.87544
+West Bank and Gaza;WBG;1990;87.22775
+West Bank and Gaza;WBG;2000;90.89918
+West Bank and Gaza;WBG;2010;94.1
+West Bank and Gaza;WBG;2012;97.69783
+World;WLD;1990;75.64830838619591
+World;WLD;2000;79.3137368206799
+World;WLD;2010;83.0790323914435
+World;WLD;2012;84.5838735073989
+Yemen, Rep.;YEM;1990;38.45982
+Yemen, Rep.;YEM;2000;41.3
+Yemen, Rep.;YEM;2010;44.8
+Yemen, Rep.;YEM;2012;48.40671
+Zambia;ZMB;1990;13.33774
+Zambia;ZMB;2000;17.4
+Zambia;ZMB;2010;18.5
+Zambia;ZMB;2012;22.06256
+Zimbabwe;ZWE;1990;28.1
+Zimbabwe;ZWE;2000;34.2
+Zimbabwe;ZWE;2010;36.9
+Zimbabwe;ZWE;2012;40.46256
