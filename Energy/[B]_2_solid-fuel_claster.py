@@ -5,9 +5,9 @@ Created on Thu Apr 21 22:27:22 2016
 @author: yusufazishty
 """
 
-DATA_PATH = r"E:\UserTA\5112100086\Dropbox\[PENTING TIDAK URGENT]\[ARSIP KULIAH]\SEMESTER 8\Kuliah\Big Data\BigData4\Energy\fetched_data\akses_listrik.txt"
-OUTPUT_CLUSTERED_FILE=r"clastered_data\[B]_1_electricity_clustered.txt"
-OUTPUT_RANGE_FILE=r"clastered_data\[B]_1_electricity_range.txt"
+DATA_PATH = r"E:\UserTA\5112100086\Dropbox\[PENTING TIDAK URGENT]\[ARSIP KULIAH]\SEMESTER 8\Kuliah\Big Data\BigData4\Energy\fetched_data\akses_bbm.txt"
+OUTPUT_CLUSTERED_FILE=r"clastered_data\[B]_2_fuel_clustered.txt"
+OUTPUT_RANGE_FILE=r"clastered_data\[B]_2_fuel_range.txt"
 
 import sklearn.cluster as clustering
 import numpy as np
@@ -121,7 +121,7 @@ def save_txt(dataToSave,fileName):
     type_0 = type(dataToSave[0][0])
     
     if type_0 == str:
-        head="CountryCode;CountryName;AvgElectricity;Cluster\n"
+        head="CountryCode;CountryName;AvgFuel;Cluster\n"
         with open(fileName, 'w') as txtfile:
             txtfile.write(head)
             for i in range(len(dataToSave)):

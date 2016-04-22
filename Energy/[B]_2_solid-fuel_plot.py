@@ -8,16 +8,16 @@ Created on Fri Apr 22 00:26:29 2016
 import plotly
 import pandas as pd
 
-DATA_PATH = r"E:\UserTA\5112100086\Dropbox\[PENTING TIDAK URGENT]\[ARSIP KULIAH]\SEMESTER 8\Kuliah\Big Data\BigData4\Energy\clastered_data\[B]_electricity_clustered.txt"
-OUTPUT_PLOTED_FILE=r"clastered_data\[B]_1_electricity_ploted"
-OUTPUT_CLUSTERED_FILE=r"clastered_data\[B]_1_electricity_clustered"
+DATA_PATH = r"E:\UserTA\5112100086\Dropbox\[PENTING TIDAK URGENT]\[ARSIP KULIAH]\SEMESTER 8\Kuliah\Big Data\BigData4\Energy\clastered_data\[B]_2_fuel_clustered.txt"
+OUTPUT_PLOTED_FILE=r"clastered_data\[B]_2_fuel_ploted"
+OUTPUT_CLUSTERED_FILE=r"clastered_data\[B]_2_fuel_clustered"
 
 df = pd.read_csv(DATA_PATH, delimiter=";")
 
 data = [ dict(
         type = 'choropleth',
         locations = df['CountryCode'],
-        z = df['AvgElectricity'],
+        z = df['AvgFuel'],
         text = df['CountryName'],
         colorscale = [[0,"rgb(5, 10, 172)"],[0.35,"rgb(40, 60, 190)"],[0.5,"rgb(70, 100, 245)"],\
             [0.6,"rgb(90, 120, 245)"],[0.7,"rgb(106, 137, 247)"],[1,"rgb(220, 220, 220)"]],
@@ -32,7 +32,7 @@ data = [ dict(
         colorbar = dict(
             autotick = False,
             tickprefix = '%',
-            title = 'Population Accessed by Electricity in %'
+            title = 'Population Get Access to Fuel in %'
         ),
     ) ]
     
@@ -53,12 +53,12 @@ data2 = [ dict(
         colorbar = dict(
             autotick = False,
             tickprefix = 'class',
-            title = 'Population Accessed by Electricity in Group '
+            title = 'Population Get Access to Fuel in Group '
         ),
     ) ]
 
 layout = dict(
-    title = 'Global Cluster of Country Accessed by Electricity <br>Source: \
+    title = 'Global Cluster of Country in Fuel Access <br>Source: \
 <a href="https://www.kaggle.com/worldbank/world-development-indicators">\
 World Development Indicators</a>',
     geo = dict(
