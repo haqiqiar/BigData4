@@ -34,7 +34,7 @@ def fetch_db(query, data_path):
         
     except lite.Error as e:
         
-        print("Error %s:" % e.args[0])
+pyplot         print("Error %s:" % e.args[0])
         sys.exit(1)
         
     finally:
