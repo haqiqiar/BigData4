@@ -100,7 +100,6 @@ def getRangeCluster(clustered_data):
     
     line=[]
     line.append(avg)
-    line=sorted(line)
     return line
     
 def getFields(data_path): 
@@ -119,15 +118,32 @@ def preprocess(AvgPerKey, keys):
     return avg_data_by_keys
     
 def save_txt(dataToSave,fileName):
-    with open(fileName, 'w') as txtfile:   
-        for i in range(len(dataToSave)):
-            try :
-                line=str(dataToSave[i][0])+";"+str(dataToSave[i][1])+";"+str(dataToSave[i][2])+";"+str(dataToSave[i][3])+"\n"
-            except IndexError as detail:
-                    print(detail)
-                    print(i)      
-            txtfile.write(line)  
-    txtfile.close()
+    type_0 = type(dataToSave[0][0])
+    
+    if type_0 == str:
+        head="CountryCode;CountryName;AvgElectricity;Cluster\n"
+        with open(fileName, 'w') as txtfile:
+            txtfile.write(head)
+            for i in range(len(dataToSave)):
+                try :
+                    line=str(dataToSave[i][0])+";"+str(dataToSave[i][1])+";"+str(dataToSave[i][2])+";"+str(dataToSave[i][3])+"\n"
+                except IndexError as detail:
+                        print(detail)
+                        print(i)      
+                txtfile.write(line)  
+        txtfile.close()
+
+    elif type_0 == float:
+        with open(fileName, 'w') as txtfile:
+            for i in range(len(dataToSave)):
+                try :
+                    line=str(dataToSave[i][0])+";"+str(dataToSave[i][1])+";"+str(dataToSave[i][2])+";"+str(dataToSave[i][3])+"\n"
+                except IndexError as detail:
+                        print(detail)
+                        print(i)      
+                txtfile.write(line)  
+        txtfile.close()
+
 
 if __name__=="__main__":    
     #1 read from data

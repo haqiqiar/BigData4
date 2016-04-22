@@ -1,0 +1,4 @@
+1. extract
+2. cmd to the extracted folder
+3. if you see setup.py, write command >> python setup.py install
+4. may the odds be ever in your favor :v

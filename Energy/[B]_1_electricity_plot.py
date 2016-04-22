@@ -8,13 +8,16 @@ Created on Fri Apr 22 00:26:29 2016
 import plotly.plotly as py
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_world_gdp_with_codes.csv')
+DATA_PATH = r"E:\UserTA\5112100086\Dropbox\[PENTING TIDAK URGENT]\[ARSIP KULIAH]\SEMESTER 8\Kuliah\Big Data\BigData4\Energy\clastered_data\[B]_electricity_clustered.txt"
+OUTPUT_MAPED_IMAGE=r"clastered_data\[B]_electricity_clustered.png"
+
+df = pd.read_csv(DATA_PATH, delimiter=";")
 
 data = [ dict(
         type = 'choropleth',
-        locations = df['CODE'],
-        z = df['GDP (BILLIONS)'],
-        text = df['COUNTRY'],
+        locations = df['CountryCode'],
+        z = df['AvgElectricity'],
+        text = df['CountryName'],
         colorscale = [[0,"rgb(5, 10, 172)"],[0.35,"rgb(40, 60, 190)"],[0.5,"rgb(70, 100, 245)"],\
             [0.6,"rgb(90, 120, 245)"],[0.7,"rgb(106, 137, 247)"],[1,"rgb(220, 220, 220)"]],
         autocolorscale = False,
@@ -27,13 +30,13 @@ data = [ dict(
         ),
         colorbar = dict(
             autotick = False,
-            tickprefix = '$',
-            title = 'GDP<br>Billions US$'
+            tickprefix = '%',
+            title = 'Population Accessed by Electricity in %'
         ),
     ) ]
 
 layout = dict(
-    title = '2014 Global GDP<br>Source: \
+    title = 'Global Cluster of Country Accessed by Electricity <br>Source: \
 <a href="https://www.cia.gov/library/publications/the-world-factbook/fields/2195.html">\
 CIA World Factbook</a>',
     geo = dict(
@@ -46,5 +49,5 @@ CIA World Factbook</a>',
 )
 
 fig = dict( data=data, layout=layout )
-url = py.plot( fig, validate=False, filename='d3-world-map' )
-    
+halo = py.plot( fig, validate=False, filename='d3-world-map' )
+halo.savefig(OUTPUT_MAPED_IMAGE, bbox_inches='tight', pad_inches=.2)    
