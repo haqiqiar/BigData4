@@ -1,0 +1,166 @@
+0;2012;ALB;Albania
+0;2012;DZA;Algeria
+0;2012;AGO;Angola
+0;2012;ARB;Arab World
+4.74491007301003;2012;ARG;Argentina
+28.758088601294197;2012;ARM;Armenia
+0;2012;AUS;Australia
+0;2012;AUT;Austria
+0;2012;AZE;Azerbaijan
+0;2012;BHR;Bahrain
+0;2012;BGD;Bangladesh
+0;2012;BLR;Belarus
+49.2790666389463;2012;BEL;Belgium
+0;2012;BEN;Benin
+0;2012;BOL;Bolivia
+0;2012;BIH;Bosnia and Herzegovina
+0;2012;BWA;Botswana
+2.90296831134417;2012;BRA;Brazil
+0;2012;BRN;Brunei Darussalam
+33.888662272698;2012;BGR;Bulgaria
+0;2012;KHM;Cambodia
+0;2012;CMR;Cameroon
+14.954487985900302;2012;CAN;Canada
+20.2806473237306;2012;CEB;Central Europe and the Baltics
+0;2012;CHL;Chile
+1.9538305864340402;2012;CHN;China
+0;2012;COL;Colombia
+0;2012;ZAR;Congo, Dem. Rep.
+0;2012;COG;Congo, Rep.
+0;2012;CRI;Costa Rica
+0;2012;CIV;Cote d'Ivoire
+0;2012;HRV;Croatia
+0;2012;CUB;Cuba
+0;2012;CYP;Cyprus
+34.9185877801064;2012;CZE;Czech Republic
+0;2012;DNK;Denmark
+0;2012;DOM;Dominican Republic
+3.8334888278687997;2012;EAS;East Asia & Pacific (all income levels)
+1.69718632373333;2012;EAP;East Asia & Pacific (developing only)
+0;2012;ECU;Ecuador
+0;2012;EGY;Egypt, Arab Rep.
+0;2012;SLV;El Salvador
+0;2012;ERI;Eritrea
+0;2012;EST;Estonia
+0;2012;ETH;Ethiopia
+29.2368451620397;2012;EMU;Euro area
+22.0096258591443;2012;ECS;Europe & Central Asia (all income levels)
+13.5381911377831;2012;ECA;Europe & Central Asia (developing only)
+27.0321374378588;2012;EUU;European Union
+32.652452449608695;2012;FIN;Finland
+0;2012;FCS;Fragile and conflict affected situations
+76.0472437285148;2012;FRA;France
+0;2012;GAB;Gabon
+0;2012;GEO;Georgia
+15.960664808387001;2012;DEU;Germany
+0;2012;GHA;Ghana
+0;2012;GRC;Greece
+0;2012;GTM;Guatemala
+0;2012;HTI;Haiti
+0;2012;HPC;Heavily indebted poor countries (HIPC)
+17.2906046706834;2012;HIC;High income
+18.9518214521712;2012;OEC;High income: OECD
+9.47374841923483;2012;NOC;High income: nonOECD
+0;2012;HND;Honduras
+0;2012;HKG;Hong Kong SAR, China
+45.657704538884104;2012;HUN;Hungary
+0;2012;ISL;Iceland
+2.9151966966247898;2012;IND;India
+0;2012;IDN;Indonesia
+0.726376063804685;2012;IRN;Iran, Islamic Rep.
+0;2012;IRQ;Iraq
+0;2012;IRL;Ireland
+0;2012;ISR;Israel
+0;2012;ITA;Italy
+0;2012;JAM;Jamaica
+1.55328773878181;2012;JPN;Japan
+0;2012;JOR;Jordan
+0;2012;KAZ;Kazakhstan
+0;2012;KEN;Kenya
+0;2012;PRK;Korea, Dem. Rep.
+28.3136353790954;2012;KOR;Korea, Rep.
+0;2012;KSV;Kosovo
+0;2012;KWT;Kuwait
+0;2012;KGZ;Kyrgyz Republic
+2.04179773516043;2012;LCN;Latin America & Caribbean (all income levels)
+2.1970046666440903;2012;LAC;Latin America & Caribbean (developing only)
+0;2012;LVA;Latvia
+0;2012;LDC;Least developed countries: UN classification
+0;2012;LBN;Lebanon
+0;2012;LBY;Libya
+0;2012;LTU;Lithuania
+2.8815775615714103;2012;LMY;Low & middle income
+5.45853586458683;2012;LMC;Lower middle income
+0;2012;LUX;Luxembourg
+0;2012;MKD;Macedonia, FYR
+0;2012;MYS;Malaysia
+0;2012;MLT;Malta
+0;2012;MUS;Mauritius
+2.98439403529548;2012;MEX;Mexico
+0.14471504402714802;2012;MEA;Middle East & North Africa (all income levels)
+0.266791656374974;2012;MNA;Middle East & North Africa (developing only)
+2.9215449556310404;2012;MIC;Middle income
+0;2012;MDA;Moldova
+0;2012;MNG;Mongolia
+0;2012;MNE;Montenegro
+0;2012;MAR;Morocco
+0;2012;MOZ;Mozambique
+0;2012;MMR;Myanmar
+0;2012;NAM;Namibia
+0;2012;NPL;Nepal
+3.81932588654212;2012;NLD;Netherlands
+0;2012;NZL;New Zealand
+0;2012;NIC;Nicaragua
+0;2012;NGA;Nigeria
+18.2588282708852;2012;NAC;North America
+0;2012;NOR;Norway
+18.0958755954277;2012;OED;OECD members
+0;2012;OMN;Oman
+0;2012;OSS;Other small states
+4.73654096228869;2012;PAK;Pakistan
+0;2012;PAN;Panama
+0;2012;PRY;Paraguay
+0;2012;PER;Peru
+0;2012;PHL;Philippines
+0;2012;POL;Poland
+0;2012;PRT;Portugal
+0;2012;QAT;Qatar
+19.508626263313698;2012;ROM;Romania
+16.6026224314116;2012;RUS;Russian Federation
+0;2012;SAU;Saudi Arabia
+0;2012;SEN;Senegal
+0;2012;SRB;Serbia
+0;2012;SGP;Singapore
+54.6985314882801;2012;SVK;Slovak Republic
+35.570426613474005;2012;SVN;Slovenia
+5.12642569525311;2012;ZAF;South Africa
+2.8831590524252;2012;SAS;South Asia
+20.9122888188826;2012;ESP;Spain
+0;2012;LKA;Sri Lanka
+2.9198825089518303;2012;SSF;Sub-Saharan Africa (all income levels)
+2.940332978148;2012;SSA;Sub-Saharan Africa (developing only)
+0;2012;SDN;Sudan
+38.4754500228316;2012;SWE;Sweden
+37.3248631915612;2012;CHE;Switzerland
+0;2012;SYR;Syrian Arab Republic
+0;2012;TJK;Tajikistan
+0;2012;TZA;Tanzania
+0;2012;THA;Thailand
+0;2012;TGO;Togo
+0;2012;TTO;Trinidad and Tobago
+0;2012;TUN;Tunisia
+0;2012;TUR;Turkey
+0;2012;TKM;Turkmenistan
+45.440429918886096;2012;UKR;Ukraine
+0;2012;ARE;United Arab Emirates
+19.5097417082559;2012;GBR;United Kingdom
+18.7584162203967;2012;USA;United States
+2.1374878934298702;2012;UMC;Upper middle income
+0;2012;URY;Uruguay
+0;2012;UZB;Uzbekistan
+0;2012;VEN;Venezuela, RB
+0;2012;VNM;Vietnam
+10.8432325949411;2012;WLD;World
+0;2012;YEM;Yemen, Rep.
+0;2012;ZMB;Zambia
+0;2012;ZWE;Zimbabwe
